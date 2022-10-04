@@ -1,6 +1,5 @@
 # fano-3d-lt-gor-rho-1
-A database of the (non-toric) complexity one Q-factorial log terminal Gorenstein Fano 3-folds of Picard rank 1.
-
+A database of the non-toric, Q-factorial, log terminal, Gorenstein, Fano 3-folds of Picard number 1 that admit an effective action of a two-dimensional torus.
 For more information on the provided data see https://arxiv.org/abs/2108.03029.
 
 Comments:
