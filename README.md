@@ -5,7 +5,7 @@ For more information on the provided data see https://arxiv.org/abs/2108.03029.
 
 ## Description
 
-The columns of the csv-file are as follows:
+The columns of the csv-file are labelled as follows:
 
 - **ID**: The ID of the family within the database, numbered 1 through 538.
 - **case**: Refers to the corresponding case in Proposition 2.24. Numbered 1 through 8.
