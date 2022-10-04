@@ -1,5 +1,5 @@
 # fano-3d-lt-gor-rho-1
-A database of the non-toric, $\mathbb{Q}$-factorial, log terminal, Gorenstein, Fano threefolds of Picard number $\rho = 1$ that admit an effective action of a two-dimensional torus.
+A database of the non-toric, $\mathbb{Q}$-factorial, log terminal, Gorenstein, Fano threefolds of Picard number $1$ that admit an effective action of a two-dimensional torus.
 
 For more information on the provided data see https://arxiv.org/abs/2108.03029.
 
