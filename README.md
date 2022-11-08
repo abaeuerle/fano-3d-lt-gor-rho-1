@@ -1,4 +1,5 @@
-# fano-3d-lt-gor-rho-1
+# On Gorenstein Fano threefolds with an action of a twodimensional torus
+
 A database of the non-toric, $\mathbb{Q}$-factorial, log terminal, Gorenstein, Fano threefolds of Picard number 1 that admit an effective action of a two-dimensional torus.
 
 For more information on the provided data see [arXiv:2108.03029](https://arxiv.org/abs/2108.03029). This dataset is also available at [Zenodo](https://zenodo.org/record/7298788#.Y2o6lXbMKUk).
