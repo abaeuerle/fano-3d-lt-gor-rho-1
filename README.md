@@ -1,5 +1,5 @@
 # fano-3d-lt-gor-rho-1
-A database of the non-toric, $\mathbb{Q}$-factorial, log terminal, Gorenstein, Fano threefolds of Picard number $1$ that admit an effective action of a two-dimensional torus.
+A database of the non-toric, $\mathbb{Q}$-factorial, log terminal, Gorenstein, Fano threefolds of Picard number 1 that admit an effective action of a two-dimensional torus.
 
 For more information on the provided data see [arXiv:2108.03029](https://arxiv.org/abs/2108.03029). This dataset is also available at [Zenodo](https://zenodo.org/record/7298788#.Y2o6lXbMKUk).
 
@@ -17,7 +17,7 @@ The columns of the csv-file are labelled as follows:
 - **relation degree**: Degree of the minimal generators of the ideal of relations.
 - **anticanonical class**: The anticanonical class.
 - **degree**: Anticanonical self-intersection number $-\mathcal{K}_X^3$.
-- **gorenstein index**: The smallest positive $\iota \in \mathbb{Z}$ such that $\iota \mathcal{K}_X$ is Cartier. Here always equal to $1$.
+- **gorenstein index**: The smallest positive $\iota \in \mathbb{Z}$ such that $\iota \mathcal{K}_X$ is Cartier. Here always equal to 1.
 - **fano index**: The largest $k \in \mathbb{Z}$ such that $kD = \mathcal{K}_X$ for some Cartier divisor $D$.
 - **dimension**: The dimension of the corresponding variety. Here always equal to 3.
 - **picard rank**: The rank of the Picard group. Here always equal to 1.
